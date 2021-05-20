@@ -153,7 +153,7 @@ Always feel free to fork and contribute any changes directly here on [GitHub](ht
 ## Version
    |          Name            |  Version   |
    |--------------------------|------------|
-   |Extension Version         |1.0.4       |
+   |Extension Version         |1.0.5       |
    |Controller Compatibility  |4.5 or Later|
    |Agent Compatibility    |4.5.13 or Later|
-   |Last Update               |02 Feb 2021 |
+   |Last Update               |20 May 2021 |

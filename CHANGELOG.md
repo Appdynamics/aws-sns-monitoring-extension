@@ -1,5 +1,8 @@
 # AppDynamics Extensions AWS SNS CHANGELOG
 
+## 1.0.5 - May 20, 2021
+1. Update to aws-cloudwtch-exts-commons to 2.2.5
+
 ## 1.0.4 - Feb 2, 2021
 1. Update to aws-cloudwtch-exts-commons to 2.2.4
 
